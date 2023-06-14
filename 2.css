@@ -1,0 +1,53 @@
+.top-left{
+    position:absolute;
+    top:150px;
+    left:20px;
+    font-size:20px;
+    }
+      a:active {
+        color:gray;
+      font-size:35px;
+        text-decoration: none;
+      }
+     a {
+        color:black;
+      font-size:35px;
+        text-decoration: none;
+      }
+    .tophead{
+    top:50px;
+    left:500px;
+    position:absolute;
+    font-family:“Comic Sans MS”, “Comic Sans”, cursive;
+    font-size:45px;
+    }
+    .space{
+    height:100px;
+    }
+    .maindiv{
+        display: flex;
+        justify-content: space-between;
+      }
+    #pic{
+        margin:20px;
+    }
+    .div2{
+    width:50%;
+    height:600px;
+    }
+    button{
+        background-color:lightcyan;
+        color:grey;
+        height: 20px;
+        width:140px;
+        border-radius:15px 15px;
+        padding: 25px;
+        text-align: center;
+        font-weight: bolder;
+        font-size:medium;
+        position: absolute;
+     }
+     .b{
+        font-family:Geneva;
+     }
+     }
